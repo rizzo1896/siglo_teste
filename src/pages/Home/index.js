@@ -10,7 +10,10 @@ function Home() {
         style={{ height: "768px" }}
         className="container mx-auto bg-blue-400"
       >
-        <nav className="bg-gray-400 h-14 w-full flex items-center">
+        <nav
+          style={{ height: "55px" }}
+          className="bg-gray-400 w-full flex items-center"
+        >
           <ul className="pl-1">
             <li>
               <button
