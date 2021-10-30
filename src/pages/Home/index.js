@@ -8,7 +8,7 @@ function Home() {
     <>
       <div
         style={{ height: "768px" }}
-        className="container mx-auto bg-blue-400"
+        className="container mx-auto bg-yellow-200"
       >
         <nav
           style={{ height: "55px" }}
