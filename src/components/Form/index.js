@@ -435,7 +435,7 @@ function Form({ func, closeForm }) {
                   className="pl-2 rounded border border-gray-400 p-1"
                 />
               </div>
-              <div className="flex flex-col w-28">
+              <div style={{ width: "7.1rem" }} className="flex flex-col">
                 <label>VALOR VENAL (R$):</label>
                 <input
                   id=""
@@ -462,7 +462,7 @@ function Form({ func, closeForm }) {
                   className="pl-2 rounded border border-gray-400 p-1"
                 />
               </div>
-              <div className="flex flex-col w-24">
+              <div style={{ width: "6.2rem" }} className="flex flex-col">
                 <label>ÁREA CONSTRUÍDA:</label>
                 <input
                   id=""
@@ -472,7 +472,7 @@ function Form({ func, closeForm }) {
                   className="pl-2 rounded border border-gray-400 p-1"
                 />
               </div>
-              <div className="flex flex-col w-24">
+              <div style={{ width: "6.2rem" }} className="flex flex-col">
                 <label>ÁREA CONSTRUÍDA:</label>
                 <input
                   id=""
@@ -482,7 +482,7 @@ function Form({ func, closeForm }) {
                   className="pl-2 rounded border border-gray-400 p-1"
                 />
               </div>
-              <div className="flex flex-col w-24">
+              <div style={{ width: "6.2rem" }} className="flex flex-col">
                 <label>ÁREA CONSTRUÍDA:</label>
                 <input
                   id=""
@@ -492,7 +492,7 @@ function Form({ func, closeForm }) {
                   className="pl-2 rounded border border-gray-400 p-1"
                 />
               </div>
-              <div className="flex flex-col w-24">
+              <div style={{ width: "6.2rem" }} className="flex flex-col">
                 <label>ÁREA CONSTRUÍDA:</label>
                 <input
                   id=""
@@ -502,7 +502,7 @@ function Form({ func, closeForm }) {
                   className="pl-2 rounded border border-gray-400 p-1"
                 />
               </div>
-              <div className="flex flex-col w-24">
+              <div style={{ width: "6.2rem" }} className="flex flex-col">
                 <label>ÁREA CONSTRUÍDA:</label>
                 <input
                   id=""
