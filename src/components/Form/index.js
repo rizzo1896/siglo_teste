@@ -331,7 +331,7 @@ function Form({ func, closeForm }) {
                   className="pl-2 rounded border border-gray-400 py-1"
                 />
               </div>
-              <div className="w-28 flex flex-col ">
+              <div style={{ width: "7.5rem" }} className="flex flex-col ">
                 <label>VALOR VENAL (R$):</label>
                 <input
                   id=""
@@ -415,7 +415,7 @@ function Form({ func, closeForm }) {
                   className="pl-2 rounded border border-gray-400 p-1"
                 />
               </div>
-              <div className="flex flex-col w-28">
+              <div style={{ width: "7.5rem" }} className="flex flex-col">
                 <label>TIPO CONSTRUÇÃO:</label>
                 <input
                   id=""
@@ -452,7 +452,7 @@ function Form({ func, closeForm }) {
               style={{ fontSize: "10px" }}
               className="w-full flex justify-between"
             >
-              <div className="flex flex-col w-24">
+              <div style={{ width: "6.2rem" }} className="flex flex-col">
                 <label>ÁREA CONSTRUÍDA:</label>
                 <input
                   id=""
